@@ -3,4 +3,4 @@
 This is a demp repo for INF 191
 
 What is your favorite movies?
-- Frozen
+Kung Fu Panda movies, esp. the ones with Jack Black
